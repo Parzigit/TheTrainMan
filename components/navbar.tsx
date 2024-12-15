@@ -19,7 +19,7 @@ export default function Navbar() {
         <Link href="/" className="flex items-center space-x-2">
         <Globe className="h-8 w-8" />
           <Train className="h-6 w-6" />
-          <span className="text-xl font-New-York">The Train~man</span>
+          <span className="text-xl font-New-York">The TrainMan</span>
         </Link>
         <div className="flex-1 max-w-sm mx-4">
           <div className="relative">
